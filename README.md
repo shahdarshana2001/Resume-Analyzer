@@ -20,7 +20,6 @@ The project identifies predefined technical skills from resume content, calculat
 
 ## System Architecture
 
-```text
 Client
    │
    ▼
@@ -37,7 +36,7 @@ Resume Analysis Engine
    │
    ▼
 Analysis Result
-```
+
 
 ## Technology Stack
 
